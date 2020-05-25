@@ -4,7 +4,7 @@ class random():
         self.name=name
         
     
-    def display(self):
+    def test(self):
         print("hello my name is " + self.name)
         print("hello i am from doamin " + self.domain)
 
